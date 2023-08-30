@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "1",
+        "NAME": "Linux Technologies",
+        "MAIL": "9600",
+        "LAT": "-1.286389",
+        "LNG": "36.817223",
+        "PHONE": "0717656880"
+    },
+    {
+        "ID": "15",
+        "NAME": "Juja Academy",
+        "MAIL": "juja@gmail.com",
+        "LAT": "-1.269914",
+        "LNG": "36.919533",
+        "PHONE": "0741526398"
+    },
+    {
+        "ID": "16",
+        "NAME": "Sagero School",
+        "MAIL": "sagero@gmail.com",
+        "LAT": "-1.268541",
+        "LNG": "36.742722",
+        "PHONE": "0745565874"
+    },
+    {
+        "ID": "17",
+        "NAME": "Moi Forces Academy",
+        "MAIL": "moiforces@gmail.com",
+        "LAT": "-1.265046",
+        "LNG": "36.876465",
+        "PHONE": "0717656880"
+    }
+]

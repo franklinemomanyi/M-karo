@@ -1,0 +1,4 @@
+FTP Username: root@mkaro.co.ke
+FTP Password: Code.hub.20
+FTP server: ftp.mkaro.co.ke
+FTP & explicit FTPS port:  21
